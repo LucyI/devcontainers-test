@@ -33,6 +33,23 @@
             BORDER-WIDTH: true,
             VERTICAL-ALIGN: true,
         ),
+        extend: (
+            colors: (
+                extended: (
+                    'magenta': (
+                        '100': #FEF7F4,
+                        '200': #FBE0DD,
+                        '300': #F2AFB3,
+                        '400': #EC798B,
+                        '500': #DC5472,
+                        '600': #BC3263,
+                        '700': #98184D,
+                        '800': #73123F,
+                        '900': #560E39,
+                    )
+                )
+            )
+        )
     ),
 );
 
